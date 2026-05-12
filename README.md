@@ -4,7 +4,6 @@ A personal finance tracking web application developed using HTML, CSS, JavaScrip
 ![Dashboard](screenshots/register.png)
 ![Dashboard](screenshots/login.png)
 ![Dashboard](screenshots/dashboard.png)
-![Dashboard](screenshots/transaction.png)
 ![Dashboard](screenshots/add_expense.png)
 ![Dashboard](screenshots/add_income.png)
 ![Dashboard](screenshots/budget.png)
